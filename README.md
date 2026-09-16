@@ -28,3 +28,9 @@ Syftet med denna uppgiften är att se till att man har koll på grundläggande u
 * Skrev sedan **git push -u origin main** för att ladda upp min lokala versionshistorik till GitHub och samtidigt sätta "main" som min standardgren för framtida uppladdningar.
 
 * För att spara min första version av README.md och ladda upp den till GitHub använde jag kommandona **git add README.md**,för att köa filen, **git commit -m "mitt meddelande"**, för att spara den lokalt och sedan **git push** för att skicka upp den till GitHub.
+
+* Ett **repository** är en digital lagringsplats eller mapp för ett projekt. Där sparar Git filerna, all versionshistorik och ändringar.
+
+* En **commit** är som en sparad version av projektets filer i versionshistoriken, där varje commit fungerar som en "timestamp" på hur koden såg ut vid ett visst specifikt tillfälle.
+
+* **Versionshistorik** är som en tidslinje över alla sparade ändringar (commits). Där visar den t.ex. vad som har ändrats i filerna över tid, när den gjordes och av vem.
