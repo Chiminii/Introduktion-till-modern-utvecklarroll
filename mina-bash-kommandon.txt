@@ -1,0 +1,7 @@
+1. Skapade kursmappen med mkdir "Introduktion till modern utvecklarroll"
+2. Gick sedan in i kursmappen med cd "Introduktion till modern utvecklarroll"
+3. Där skapade jag projektmappen med mkdir "Praktisk verktygsuppgift"
+4. Gick in i projektmappen med cd "Praktisk verktygsuppgift"
+5. Där skapade jag en fil med touch "mina-bash-kommandon.txt"
+6. Kolla innehållet i min mapp "Praktisk verktygsuppgift" med kommandot "ls"
+7. Kolla innehållet i min textfil med cat "mina-bash-kommandon.txt"
